@@ -1,7 +1,7 @@
 # Serverless Framework Auth0 Authorizer
 
 ## Importante!!
-Este proyecto se basa y utilza el código de [guthub: arielweinberger](https://github.com/arielweinberger/serverless-auth0-authorizer), facilitado en su curso de Udemy [Serverless Framework Bootcamp](https://www.udemy.com/course/serverless-framework/).
+Este proyecto se basa y utilza el código de [github: arielweinberger](https://github.com/arielweinberger/serverless-auth0-authorizer), facilitado en su curso de Udemy [Serverless Framework Bootcamp](https://www.udemy.com/course/serverless-framework/).
 
 
 ## Descripción:
